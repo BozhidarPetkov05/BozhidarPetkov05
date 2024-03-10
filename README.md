@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Petkov</h1>
 <h3>Student in:</h3>
 <div><a href="https://softuni.bg/"><img src = "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" height="65" width="65"></a></div>
-<h3>Languages and Tools:</h3>
+<h3>Languages and Tools</h3>
 <p><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharplogo" height="70" width="65"></a>  <a href="https://dotnet.microsoft.com/en-us/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1024px-Microsoft_.NET_logo.svg.png" alt="dotnetlogo" height="70" width="65"></a> <a href="https://www.geeksforgeeks.org/html5-introduction/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5logo" height="70" width="65"></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3logo" height="70" width="65"></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="jslogo" height="70" width="65"></a></p>
 <br>
 <a align="left" href="https://github.com/BozhidarPetkov05/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarPetkov05&theme=radical" style="max-width: 100%;">
