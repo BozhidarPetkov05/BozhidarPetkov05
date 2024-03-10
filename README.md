@@ -2,7 +2,7 @@
 <h3>Software University Student in:</h3>
 <div><a href="https://softuni.bg/"><img src = "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" height="65" width="65"></a></div>
 <h3>Languages and Tools</h3>
-<div><a href="" height="65" width="65"></a><a href="" height="65" width="65"></a><a href="" height="65" width="65"></a><a href="" height="65" width="65"></a><a href="" height="65" width="65"></a></div>
+<div><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" height="65" width="65"></a><a href="" height="65" width="65"></a><a href="" height="65" width="65"></a><a href="" height="65" width="65"></a><a href="" height="65" width="65"></a></div>
 <a align="left" href="https://github.com/BozhidarPetkov05/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BozhidarPetkov05&theme=radical" style="max-width: 100%;">
   </a>
 <a href="https://github.com/BozhidarPetkov05/github-readme-stats">
