@@ -1,3 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bozhidar Petkov</h1>
 <h3 align="center">Software University Student</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=BozhidarPetkov&theme=radical" alt="trophy">
+<a align="left" href="https://github.com/BozhidarPetkov/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinYordanov91&theme=midnight-purple" style="max-width: 100%;">
+  </a>
