@@ -1,4 +1,4 @@
-![image](https://github.com/BozhidarPetkov05/BozhidarPetkov05/assets/133798533/30a25402-7c94-4537-9f3f-cf14985c5a18)<h1 align="center">Hi 👋, I'm Bozhidar Petkov</h1>
+<h1 align="center">Hi 👋, I'm Bozhidar Petkov</h1>
 <h3>Software University Student in:</h3>
 <div><a href="https://softuni.bg/"><img src = "https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_Software_University_%28SoftUni%29_-_blue.png" height="65" width="65"></a></div>
 <h3>Languages and Tools</h3>
