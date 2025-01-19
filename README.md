@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bozhidar Petkov</h1>
+<h1 align="center" background-color="red">Hi 👋, I'm Bozhidar Petkov</h1>
 <h3>Student in:</h3>
 <div><a href="https://uni-plovdiv.bg/"><img src = "https://uni-plovdiv.bg/templates/default/img/logoPuUni.png" height="65" width="126"></a></div>
 <h3>Languages and Tools:</h3>
